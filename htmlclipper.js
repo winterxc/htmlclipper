@@ -627,3 +627,4 @@ flo.init();
 // TODO: wrapper element must have full class
 // TODO: a:hover
 // TODO: add siblings
+// TODO: wrapper the bootstrap css
